@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { toast } from "react-toastify";
 import moment from "moment";
 import { MdModeEdit } from "react-icons/md";
-import ApiList from "../BackendUrl/backendUrl";
+import ApiList from "../backendUrl/backendUrl";
 import ChangeUserRole from "./ChangeUserRole";
 
 const AllUsers = () => {
