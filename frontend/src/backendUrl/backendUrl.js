@@ -1,5 +1,5 @@
-const backendUrl = "http://localhost:8080";
-// const backendUrl = "https://gym-scheduling.vercel.app";
+// const backendUrl = "http://localhost:8080";
+const backendUrl = "https://room-booking-pink.vercel.app";
 
 const ApiList = {
   signup: {
